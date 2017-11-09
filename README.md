@@ -1,4 +1,6 @@
 # Istio Mixerclient
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frshriram%2Fmixerclient.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Frshriram%2Fmixerclient?ref=badge_shield)
+
 
 The Istio Mixerclient is a C++ library to support the mixer API with following features:
 
@@ -13,3 +15,7 @@ The Istio Mixerclient is a C++ library to support the mixer API with following f
 - Supports batch for Reports. All report requests are batched up to ReportOptions.max_batch_entries, or up to ReportOptions.max_match_time_ms.
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frshriram%2Fmixerclient.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Frshriram%2Fmixerclient?ref=badge_large)
